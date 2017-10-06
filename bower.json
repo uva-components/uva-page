@@ -1,0 +1,11 @@
+{
+  "name": "uva-page",
+  "description": "UVA Brand Complient page template",
+  "main": "uva-page.html",
+  "dependencies": {
+    "uva-elements": "uva-components/uva-elements#2.0"
+  },
+  "resolutions": {
+    "lodash": "^4.17.4"
+  }
+}
